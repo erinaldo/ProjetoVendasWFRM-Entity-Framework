@@ -1,0 +1,421 @@
+C:\Users\DEVPARTNER03\source\repos\CSharp_Avancado\CSharp_Avancado\bin\Debug\CSharp_Avancado.exe.config
+C:\Users\DEVPARTNER03\source\repos\CSharp_Avancado\CSharp_Avancado\bin\Debug\CSharp_Avancado.exe
+C:\Users\DEVPARTNER03\source\repos\CSharp_Avancado\CSharp_Avancado\bin\Debug\CSharp_Avancado.pdb
+C:\Users\DEVPARTNER03\source\repos\CSharp_Avancado\CSharp_Avancado\obj\Debug\CSharp_Avancado.csprojAssemblyReference.cache
+C:\Users\DEVPARTNER03\source\repos\CSharp_Avancado\CSharp_Avancado\obj\Debug\CSharp_Avancado.Properties.Resources.resources
+C:\Users\DEVPARTNER03\source\repos\CSharp_Avancado\CSharp_Avancado\obj\Debug\CSharp_Avancado.csproj.GenerateResource.cache
+C:\Users\DEVPARTNER03\source\repos\CSharp_Avancado\CSharp_Avancado\obj\Debug\CSharp_Avancado.csproj.CoreCompileInputs.cache
+C:\Users\DEVPARTNER03\source\repos\CSharp_Avancado\CSharp_Avancado\obj\Debug\CSharp_Avancado.exe
+C:\Users\DEVPARTNER03\source\repos\CSharp_Avancado\CSharp_Avancado\obj\Debug\CSharp_Avancado.pdb
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\CSharp_Avancado.exe.config
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\CSharp_Avancado.exe
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\CSharp_Avancado.pdb
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csprojAssemblyReference.cache
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.Properties.Resources.resources
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csproj.GenerateResource.cache
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csproj.CoreCompileInputs.cache
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.exe
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.pdb
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_Login.resources
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_Principal.resources
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CadastrarCliente.resources
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_DialogBox.resources
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\CSharp_Avancado.exe.config
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\CSharp_Avancado.exe
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\CSharp_Avancado.pdb
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csprojAssemblyReference.cache
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.Properties.Resources.resources
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CadastrarCliente.resources
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_DialogBox.resources
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_Login.resources
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_Principal.resources
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csproj.GenerateResource.cache
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csproj.CoreCompileInputs.cache
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.exe
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.pdb
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Newtonsoft.Json.dll
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Newtonsoft.Json.xml
+E:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csproj.CopyComplete
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Newtonsoft.Json.dll
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Newtonsoft.Json.xml
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csproj.CopyComplete
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CadastrarFuncionario.resources
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CadastrarProduto.resources
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CadastrarFornecedor.resources
+F:\2_Curso CSharp Videos\Anotações ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_NovaVenda.resources
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csprojAssemblyReference.cache
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.Properties.Resources.resources
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_Principal.resources
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csproj.GenerateResource.cache
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csproj.CoreCompileInputs.cache
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.exe
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.pdb
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\CSharp_Avancado.exe.config
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\CSharp_Avancado.exe
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\CSharp_Avancado.pdb
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Newtonsoft.Json.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Newtonsoft.Json.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csproj.CopyComplete
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\CSharp_Avancado.exe.config
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\CSharp_Avancado.exe
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\CSharp_Avancado.pdb
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Newtonsoft.Json.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Newtonsoft.Json.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.Properties.Resources.resources
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CER_Cliente.resources
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CER_Fornecedor.resources
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CER_Funcionario.resources
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CER_Produto.resources
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_BOX_DialogBox.resources
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_BOX_Login.resources
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CER_Venda.resources
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_Principal.resources
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csproj.GenerateResource.cache
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csproj.CoreCompileInputs.cache
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csproj.CopyComplete
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.exe
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.pdb
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_BOX_Pesquisar.resources
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\netstandard.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.AppContext.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Collections.Concurrent.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Collections.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Collections.NonGeneric.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Collections.Specialized.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.ComponentModel.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.ComponentModel.Primitives.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Console.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Data.Common.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.Contracts.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.Debug.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.Process.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.Tools.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.Tracing.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Drawing.Primitives.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Dynamic.Runtime.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Globalization.Calendars.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Globalization.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Globalization.Extensions.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.Compression.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.FileSystem.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.IsolatedStorage.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.Pipes.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Linq.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Linq.Expressions.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Linq.Parallel.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Linq.Queryable.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.Http.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.NameResolution.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.NetworkInformation.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.Ping.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.Primitives.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.Requests.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.Security.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.Sockets.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.WebSockets.Client.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.WebSockets.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.ObjectModel.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Reflection.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Reflection.Extensions.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Reflection.Primitives.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Resources.Reader.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Resources.ResourceManager.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Resources.Writer.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.Extensions.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.Handles.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.InteropServices.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.Numerics.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.Claims.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.Principal.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.SecureString.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Text.Encoding.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Text.RegularExpressions.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.Overlapped.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.Tasks.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.Thread.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.ThreadPool.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.Timer.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.ValueTuple.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Xml.ReaderWriter.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Xml.XDocument.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Xml.XmlDocument.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Xml.XmlSerializer.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Xml.XPath.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\EntityFramework.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\EntityFramework.SqlServer.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Data.SqlClient.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Options.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Identity.Client.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Buffers.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Collections.Immutable.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.ComponentModel.Annotations.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Memory.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Numerics.Vectors.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\EntityFramework.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\EntityFramework.SqlServer.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Data.SqlClient.pdb
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Options.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Identity.Client.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Buffers.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Collections.Immutable.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Memory.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Numerics.Vectors.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.exe.config
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\netstandard.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.AppContext.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Collections.Concurrent.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Collections.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Collections.NonGeneric.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Collections.Specialized.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.ComponentModel.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.ComponentModel.Primitives.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Console.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Data.Common.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.Contracts.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.Debug.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.Process.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.Tools.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.Tracing.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Drawing.Primitives.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Dynamic.Runtime.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Globalization.Calendars.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Globalization.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Globalization.Extensions.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.Compression.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.FileSystem.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.IsolatedStorage.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.Pipes.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Linq.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Linq.Expressions.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Linq.Parallel.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Linq.Queryable.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.Http.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.NameResolution.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.NetworkInformation.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.Ping.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.Primitives.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.Requests.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.Security.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.Sockets.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.WebSockets.Client.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Net.WebSockets.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.ObjectModel.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Reflection.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Reflection.Extensions.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Reflection.Primitives.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Resources.Reader.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Resources.ResourceManager.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Resources.Writer.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.Extensions.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.Handles.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.InteropServices.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.Numerics.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.Claims.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.Principal.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Security.SecureString.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Text.Encoding.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Text.RegularExpressions.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.Overlapped.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.Tasks.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.Thread.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.ThreadPool.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.Timer.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.ValueTuple.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Xml.ReaderWriter.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Xml.XDocument.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Xml.XmlDocument.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Xml.XmlSerializer.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Xml.XPath.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\EntityFramework.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\EntityFramework.SqlServer.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Options.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Identity.Client.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Buffers.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Collections.Immutable.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.ComponentModel.Annotations.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Memory.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Numerics.Vectors.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\EntityFramework.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\EntityFramework.SqlServer.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Options.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\Microsoft.Identity.Client.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Buffers.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Collections.Immutable.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Memory.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Numerics.Vectors.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.exe.config
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CER_Cliente.resources
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CER_Fornecedor.resources
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CER_Funcionario.resources
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CER_Produto.resources
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_BOX_DialogBox.resources
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_BOX_Login.resources
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_CER_Venda.resources
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_BOX_Pesquisar.resources
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_BOX_ConfiguracaoTecnica.resources
+F:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.csprojAssemblyReference.cache
+E:\1_Curso CSharp Videos\ALURA\4_CSharp_Avançado\Aplicando o conhecimento\CSharp_Avancado (Projeto apresentacao)\CSharp_Avancado\obj\Debug\CSharp_Avancado.View.Frm_BOX_ConfiguracaoTecnica.resources

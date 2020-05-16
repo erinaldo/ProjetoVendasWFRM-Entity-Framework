@@ -1,0 +1,11 @@
+﻿Model
+Leitura e Escrita de Dados.
+- DBC
+
+View
+Exibição dos dados.
+- Formulários
+
+Controller
+Controle de requisições do usuário.
+- Ações de botões ??

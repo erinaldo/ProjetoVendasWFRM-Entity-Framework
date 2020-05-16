@@ -1,0 +1,9 @@
+﻿public void SetComponents()
+{
+	// Form
+	// Group Box
+	// Label
+	// Text Box
+	// Picture Box
+	// Button
+}

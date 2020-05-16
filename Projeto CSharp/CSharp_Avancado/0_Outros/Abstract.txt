@@ -1,0 +1,87 @@
+﻿#-------------------------------------------------------------------#
+Cliente
+- ID
+- Nome
+- Data Nascimento
+- CPF
+- Endereço
+{   
+    CEP,
+    UF,
+    Cidade,
+    Bairro,
+    Logradouro
+}
+- Contato
+{
+    E-mail,
+    Telefone1,
+	Telefone2
+}
+#-------------------------------------------------------------------#
+Funcionário
+- ID
+- Nome
+- Data Nascimento
+- CPF
+- RG
+- Cargo
+- Salário
+- Endereço
+{       
+    CEP,
+    UF,
+    Cidade,
+    Bairro,
+    Logradouro
+}
+- Contato
+{
+    E-mail,
+    Telefone1,
+	Telefone2
+}
+#-------------------------------------------------------------------#
+Fornecedor
+- ID
+- Nome fantasia
+- Ramo de atuação
+- CNPJ
+- Endereço
+{   
+    CEP,
+    UF,
+    Cidade,
+    Bairro,
+    Logradouro
+}
+- Contato
+{
+    E-mail,
+    E-mail 2,
+    Telefone1,
+	Telefone2
+}
+#-------------------------------------------------------------------#
+Produto
+- ID
+- Descrição
+- Tipo
+- Marca
+- Validade
+
+- Quantidade
+- Preço Compra
+- Preço Venda
+
+- Imagem representativa
+#-------------------------------------------------------------------#
+Venda
+- ID Cliente
+- ID Vendedor
+- ID Produtos
+- Valor Doc
+- Acrescimo
+- Desconto
+- Observação
+#-------------------------------------------------------------------#
